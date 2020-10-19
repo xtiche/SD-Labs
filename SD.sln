@@ -3,16 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1267
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactorialService", "Lab1\FactorialService.csproj", "{9BBA483B-A7F0-46E2-8D64-613BDFA9E7CB}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactorialService_Test", "Lab1_Test\FactorialService_Test.csproj", "{A6B6AFA3-0C9D-4C53-9386-61E98DFF2368}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9A6DF395-3761-4D66-840E-7B3194FF7F3C}"
 	ProjectSection(SolutionItems) = preProject
 		Local.testsettings = Local.testsettings
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinReportWebService", "..\Lab2\FinReportWebService\FinReportWebService.csproj", "{44C813D8-3B0B-44E8-B12B-9053F04CD65C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactorialService", "Lab1\Lab1\FactorialService.csproj", "{9BBA483B-A7F0-46E2-8D64-613BDFA9E7CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactorialService_Test", "Lab1\Lab1_Test\FactorialService_Test.csproj", "{A6B6AFA3-0C9D-4C53-9386-61E98DFF2368}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinReportWebService", "Lab2\FinReportWebService\FinReportWebService.csproj", "{44C813D8-3B0B-44E8-B12B-9053F04CD65C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
