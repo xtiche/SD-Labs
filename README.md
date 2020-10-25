@@ -1,4 +1,4 @@
 # SD
 Service Development
 
-Labs done by Yevhenii Hocnharenko IT-з03мп
+Labs done by Yevhenii Honcharenko IT-з03мп
